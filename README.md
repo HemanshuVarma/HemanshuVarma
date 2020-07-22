@@ -11,4 +11,4 @@ _Android Developer at [Scientific Games](http://scientificgames.com/)_
 - ⚡ Fun fact: You'll find me coding or hanging out with pooches
 
 
-[![Hemanshu's github stats](https://github-readme-stats.vercel.app/api?username=HemanshuVarma)](https://github.com/HemanshuVarma/github-readme-stats)
+[![Hemanshu's github stats](https://github-readme-stats.vercel.app/api?username=HemanshuVarma)](https://github.com/HemanshuVarma)
