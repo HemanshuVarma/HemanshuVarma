@@ -2,7 +2,7 @@
 
 _Android Developer at [Scientific Games](http://scientificgames.com/)_
 
-- 🔭 I’m currently working on [Kotlin-Programs](https://github.com/HemanshuVarma/Kotlin-Programs)
+- 🔭 I’m currently revamping [CoffeeHouse](https://github.com/HemanshuVarma/CoffeeHouse) :coffee:
 - 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with Project TARA
 - 💬 Ask me about Android - Java, Kotlin or Mobile development
