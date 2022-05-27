@@ -1,6 +1,6 @@
 ### Hi, I'm Hemanshu Varma! :wave:
 
-_Android Developer at [Scientific Games](http://scientificgames.com/)_
+_Android Developer at [OpenBet](https://www.openbet.com/)_
 
 - 🔭 I’m currently revamping [CoffeeHouse](https://github.com/HemanshuVarma/CoffeeHouse) :coffee:
 - 🌱 I’m currently learning Kotlin
