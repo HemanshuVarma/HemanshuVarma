@@ -2,10 +2,10 @@
 
 _Android Developer at [OpenBet](https://www.openbet.com/)_
 
-- 🔭 I’m currently revamping [CoffeeHouse](https://github.com/HemanshuVarma/CoffeeHouse) :coffee:
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on [Kitty](https://github.com/HemanshuVarma/Kitty) :smiley_cat: and [Noteefy](https://github.com/bharath1997/Noteefy) :page_with_curl:
+- 🌱 I’m currently learning Compose
 - 🤔 I’m looking for help with Project TARA
-- 💬 Ask me about Android - Java, Kotlin or Mobile development
+- 💬 Ask me about Android - Java, Kotlin, Jetpack Compose or Mobile development
 - 📫 How to reach me: [LinkedIn - HemanshuVarma](https://www.linkedin.com/in/hemanshuvarma/), [Twitter - @varmahemanshu](https://twitter.com/varmahemanshu)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You'll find me coding or hanging out with pooches
