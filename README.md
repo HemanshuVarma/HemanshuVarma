@@ -1,6 +1,6 @@
 ### Hi, I'm Hemanshu Varma! :wave:
 
-_Android Developer at [Recro]([https://www.openbet.com/](https://recro.io/))_
+_Android Developer at [Recro](https://recro.io/)_
 
 - 🔭 I’m currently working on [Kitty](https://github.com/HemanshuVarma/Kitty) :smiley_cat: and [Noteefy](https://github.com/bharath1997/Noteefy) :page_with_curl:
 - 🌱 I’m currently learning Compose
