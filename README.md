@@ -8,7 +8,7 @@ _Android Developer at [Recro](https://recro.io/)_
 - 💬 Ask me about Android - Java, Kotlin, Jetpack Compose or Mobile development
 - 📫 How to reach me: [LinkedIn - HemanshuVarma](https://www.linkedin.com/in/hemanshuvarma/), [Twitter - @varmahemanshu](https://twitter.com/varmahemanshu)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: You'll find me coding or hanging out with pooches
+- ⚡ Fun fact: You'll find me coding or hanging out with pooches :dog:
 
 
 [![Hemanshu's github stats](https://github-readme-stats.vercel.app/api?username=HemanshuVarma)](https://github.com/HemanshuVarma)
