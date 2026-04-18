@@ -1,9 +1,9 @@
 ### Hi, I'm Hemanshu Varma! :wave:
 
-_Android Developer at [Recro](https://recro.io/)_
+_Android Developer at [H&M](https://www2.hm.com/en_in/index.html)_
 
 - 🔭 I’m currently working on [Kitty](https://github.com/HemanshuVarma/Kitty) :smiley_cat:    
-- 🌱 I’m currently learning Compose and React Native
+- 🌱 I’m currently exploring Android Apps with MCPs
 - 🤔 I’m looking for help with Project TARA
 - 💬 Ask me about Android - Java, Kotlin, Jetpack Compose or Mobile development
 - 👨‍💻 Support my work by appreciating with a [Coffee](https://buymeacoffee.com/hemanshuvarma) :coffee:
